@@ -19,6 +19,10 @@
     border: 1px solid white;
 }
 
+span {
+    padding: 1% 1%;
+}
+
 .green {
     background-color: #00e265;
     color: white;
@@ -29,4 +33,8 @@
 
 .flex {
     display: flex;
+}
+
+.empty {
+    padding-top: 2%;
 }
