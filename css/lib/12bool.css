@@ -94,27 +94,27 @@
 
 /* regole di offset */
 
-.col-offest-offset-1 {
+.col-offset-1 {
     margin-left: calc((100% / 12) * 1);
 }
 
-.col-offest-2 {
+.col-offset-2 {
     flex-basis: calc((100% / 12) * 2);
 }
 
-.col-offest-3 {
+.col-offset-3 {
     flex-basis: calc((100% / 12) * 3);
 }
 
-.col-offest-4 {
+.col-offset-4 {
     flex-basis: calc((100% / 12) * 4);
 }
 
-.col-offest-5 {
+.col-offset-5 {
     flex-basis: calc((100% / 12) * 5);
 }
 
-.col-offest-6 {
+.col-offset-6 {
     flex-basis: calc((100% / 12) * 6);
 }
 
